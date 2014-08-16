@@ -1,6 +1,1 @@
-console.log "hello world?"
-
-console.log "welcome"
-
-console.log "another line"
-console.log "end of line"
+console.log "hello world!1"
